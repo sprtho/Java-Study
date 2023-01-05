@@ -13,7 +13,7 @@ public class App {
 		name.add("toby");
 		name.add("foo");
 		name.add("name");
-		//name.add("name");
+		name.add("name");
 		
 //		name.forEach(System.out::println);
 		
