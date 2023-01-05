@@ -12,6 +12,7 @@ public class App {
 		name.add("white");
 		name.add("toby");
 		name.add("foo");
+		name.add("name");
 		
 //		name.forEach(System.out::println);
 		
