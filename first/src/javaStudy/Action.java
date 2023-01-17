@@ -1,5 +1,5 @@
 package javaStudy;
 
 public abstract class Action {
-	public abstract void Action();
+	public abstract void Action();//ss
 }
