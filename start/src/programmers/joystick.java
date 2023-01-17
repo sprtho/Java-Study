@@ -9,7 +9,7 @@ public class joystick {
 		
 		String sum = "A";
 		
-		System.out.println(name + sum);
+		System.out.println(name + sum); // ¼öÁ¤
 
 	}
 
