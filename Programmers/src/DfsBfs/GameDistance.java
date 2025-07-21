@@ -11,7 +11,7 @@ public class GameDistance {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int answer = 0; // test
+		int answer = 0; // test1
 		
 		GameDistance gameDistance = new GameDistance();
 		
