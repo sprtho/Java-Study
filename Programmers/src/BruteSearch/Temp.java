@@ -12,7 +12,7 @@ public class Temp {
 		
 		Temp sosu = new Temp();
 		
-		String numbers = "13579";
+		String numbers = "13579"; // push test
 		
 		HashSet<Integer> set = new HashSet<Integer>();
 		
