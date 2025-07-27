@@ -14,7 +14,7 @@ public class Dictionary {
 		
 		List<String> list = new ArrayList<String>();
 		
-		dic.dfs("", 0, list); // 변경
+		dic.dfs("", 0, list); // 변경1
 		
 		//System.out.println(list);
 		
